@@ -56,7 +56,7 @@ body {
   color:#373737;
   background: #212121;
   font-size: 16px;
-  font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+  font-family: 'Roboto', sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
@@ -64,8 +64,8 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
-  color:#222222;
-  font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+  color:#99CC00;
+  font-family: 'Roboto', sans-serif;
   letter-spacing: -1px;
 }
 
@@ -106,7 +106,7 @@ footer p {
 
 a {
   text-decoration: none;
-  color: #007edf;
+  color: #99CC00;
   text-shadow: none;
 
   transition: color 0.5s ease;
@@ -122,13 +122,13 @@ a {
 }
 
 #main_content a:hover {
-  color: #0069ba;
-  text-shadow: #0090ff 0px 0px 2px;
+  color: #669900;
+  text-shadow: #99CC00 0px 0px 2px;
 }
 
 footer a:hover {
-  color: #43adff;
-  text-shadow: #0090ff 0px 0px 2px;
+  color: #669900;
+  text-shadow: #99CC00 0px 0px 2px;
 }
 
 em {
@@ -303,7 +303,7 @@ Full-Width Styles
 
 #project_title {
   margin: 0;
-  color: #fff;
+  color: #99CC00;
   font-size: 42px;
   font-weight: 700;
   text-shadow: #111 0px 0px 10px;
